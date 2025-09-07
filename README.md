@@ -42,6 +42,6 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/Scapin1/Scapin1/output/snake.svg" alt="Snake animation" />
+<img src="https://github.com/Scapin1/Scapin1/blob/main/snake.yml" alt="Snake animation" />
 
 ###
